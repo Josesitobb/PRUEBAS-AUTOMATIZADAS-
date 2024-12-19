@@ -1,0 +1,19 @@
+{
+    "pruebas": [
+        {
+            "nombre": "Prueba 1 - Crear Usuario",
+            "modulo": "Módulo Usuarios",
+            "script": "crear_usuario.py"
+        },
+        {
+            "nombre": "Prueba 2 - Eliminar Usuario",
+            "modulo": "Módulo Usuarios",
+            "script": "eliminar_usuario.py"
+        },
+        {
+            "nombre": "Prueba 3 - Crear Producto",
+            "modulo": "Módulo Productos",
+            "script": "crear_producto.py"
+        }
+    ]
+}
